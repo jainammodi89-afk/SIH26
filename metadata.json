@@ -1,0 +1,7 @@
+{
+  "name": "GramShakti AI",
+  "description": "Hyper-local business feasibility analyzer and 10:90 SCA concessional credit structuring platform for rural micro-entrepreneurs across 8 Indian languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
